@@ -12,9 +12,51 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 2: January 4, 2017
 
-**Today's Progress**:              
+**Today's Progress**: Continued work on Tribute Page.             
+
+**Thoughts**: Had a good day          
+
+**Link(s) to work**: [C](http://www.example.com)
+
+
+### Day 3: January 5, 2017
+
+**Today's Progress**:  GitHub not functioning properly (likely operator error), workinh to fix so I can continue work on Tribute Page.    
+
+**Thoughts**: Has not been a productive day,        
+
+**Link(s) to work**: [C](http://www.example.com)
+
+
+### Day 4: January 6, 2017
+
+**Today's Progress**:             
 
 **Thoughts**:          
 
-**Link(s) to work**: [C](http://www.example.com)
+**Link(s) to work**: 
+
+
+### Day 5: January 7, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
