@@ -46,16 +46,139 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 **Link(s) to work**
 
 
+### Day 6: January 8, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
 
 
+### Day 7: January 9, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
 
 
+### Day 8: January 10, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
 
 
+### Day 9: January 11, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
 
 
+### Day 10: January 12, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
 
 
+### Day 11: January 13, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
+
+
+### Day 12: January 14, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
+
+
+### Day 13: January 15, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
+
+
+### Day 14: January 16, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
+
+
+### Day 15: January 17, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
+
+
+### Day 16: January 18, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
+
+
+### Day 17: January 19, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
+
+
+### Day 18: January 20, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
+
+
+### Day 19: January 21, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
+
+
+### Day 20: January 22, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
 
 
 
