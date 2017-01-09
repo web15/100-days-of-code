@@ -7,7 +7,7 @@
 **Thoughts:** I have spent a lot of time in 2016, books and video learning coding, other than exercises I have not built anything.
 Today begins the process of creating a portfolio so I can find a job in my new career. 
 
-**Link to work:** [fork 100daysofcode](http://www.github.com/web15/100-days-of-code)
+**Link to work:** [100daysofcode](http://www.github.com/web15/100-days-of-code)
 
 
 ### Day 1: January 4, 2017
@@ -57,11 +57,11 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 6: January 9, 2017
 
-**Today's Progress**:             
+**Today's Progress**:  Completed first project - Tribute page ya!           
 
-**Thoughts**:          
+**Thoughts**: Tomorrow begin work on personal portfolio project         
 
-**Link(s) to work**
+**Link(s) to work**: [Tribute Page](http://images4.mtv.com/uri/mgid:file:docroot:mtv.com:/shared/media/images/amg_artist_portraits/standard/drp100/p106/p10693e1496.jpg?enlarge=false&matte=true&matteColor=black&quality=0.85) 
 
 
 ### Day 7: January 10, 2017
