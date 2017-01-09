@@ -7,7 +7,7 @@
 **Thoughts:** I have spent a lot of time in 2016, books and video learning coding, other than exercises I have not built anything.
 Today begins the process of creating a portfolio so I can find a job in my new career. 
 
-**Link to work:** [Tribute Page](http://www.github.com/web15/100-days-of-code)
+**Link to work:** [fork 100daysofcode](http://www.github.com/web15/100-days-of-code)
 
 
 ### Day 1: January 4, 2017
@@ -16,43 +16,43 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 **Thoughts**: Had a good day          
 
-**Link(s) to work**: [C](http://www.example.com)
+**Link(s) to work**: N/A
 
 
 ### Day 2: January 5, 2017
 
-**Today's Progress**:  GitHub not functioning properly (likely operator error), workinh to fix so I can continue work on Tribute Page.    
+**Today's Progress**:  GitHub not functioning properly (likely operator error), working to fix so I can continue work on Tribute Page.   
 
 **Thoughts**: Has not been a productive day,        
 
-**Link(s) to work**: [C](http://www.example.com)
+**Link(s) to work**: N/A
 
 
 ### Day 3: January 6, 2017
 
-**Today's Progress**:             
+**Today's Progress**: More issues with Github, removed and reinstalled Git and Github desktop.             
 
-**Thoughts**:          
+**Thoughts**: Need to spend time learning Github         
 
-**Link(s) to work**: 
+**Link(s) to work**: N/A
 
 
 ### Day 4: January 7, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Today spent learning about Github.
 
-**Thoughts**:          
+**Thoughts**: Not getting to spend time coding as I would like but must better understand how to use tools                     
 
-**Link(s) to work**
+**Link(s) to work**: N/A
 
 
 ### Day 5: January 8, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Back to work on Tribute Page, almost complete            
 
-**Thoughts**:          
+**Thoughts**: Last several days discouraging, learning is sometimes difficult         
 
-**Link(s) to work**
+**Link(s) to work**:N/A
 
 
 ### Day 6: January 9, 2017
@@ -152,34 +152,3 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 **Thoughts**:          
 
 **Link(s) to work**
-
-
-### Day 17: January 20, 2017
-
-**Today's Progress**:             
-
-**Thoughts**:          
-
-**Link(s) to work**
-
-
-### Day 18: January 21, 2017
-
-**Today's Progress**:             
-
-**Thoughts**:          
-
-**Link(s) to work**
-
-
-### Day 19: January 22, 2017
-
-**Today's Progress**:             
-
-**Thoughts**:          
-
-**Link(s) to work**
-
-
-
-
