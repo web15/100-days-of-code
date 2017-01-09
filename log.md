@@ -61,7 +61,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 **Thoughts**: Tomorrow begin work on personal portfolio project         
 
-**Link(s) to work**: [Tribute Page](http://images4.mtv.com/uri/mgid:file:docroot:mtv.com:/shared/media/images/amg_artist_portraits/standard/drp100/p106/p10693e1496.jpg?enlarge=false&matte=true&matteColor=black&quality=0.85) 
+**Link(s) to work**: [Tribute Page](https://codepen.io/web15/pen/mRejre) 
 
 
 ### Day 7: January 10, 2017
