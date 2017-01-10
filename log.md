@@ -66,9 +66,9 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 7: January 10, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Today starting FCC Personal Portfolio project             
 
-**Thoughts**:          
+**Thoughts**:           
 
 **Link(s) to work**
 
