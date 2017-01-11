@@ -68,18 +68,18 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 **Today's Progress**: Today starting FCC Personal Portfolio project             
 
-**Thoughts**:           
+**Thoughts**: Had a good day, perhaps build some momentum.         
 
-**Link(s) to work**
+**Link(s) to work** no link to portfolio
 
 
 ### Day 8: January 11, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Started CS50 (EDx class) viewed lecture and reviewed problem sets for Week 0, begin ps tomorrow; viewed networking webinar; viewed good CodePen tutorial - very helpful; resumed work on FCC Personal Portfolio project.            
 
-**Thoughts**:          
+**Thoughts**: Very good day, building structure into my daily activities. Progress is good!         
 
-**Link(s) to work**
+**Link(s) to work** no link to portfolio 
 
 
 ### Day 9: January 12, 2017
