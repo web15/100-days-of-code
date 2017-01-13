@@ -84,11 +84,11 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 9: January 12, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Worked on FCC Personal Portfolio, code starting to take shape, need to find some images tomorrow. Webinar from NetCom Learning:Tools to Secure, Troubleshoot and Manage Windows 10, very interesting for Windows users. Finished the day working on CS50 week problem set.             
 
-**Thoughts**:          
+**Thoughts**: Had a great day, learning and making progress.          
 
-**Link(s) to work**
+**Link(s) to work**: no link to portfolio or ps
 
 
 ### Day 10: January 13, 2017
