@@ -93,11 +93,11 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 10: January 13, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Worked on CS50 week 0 problem set, learning Scratch so I can complete the assignment.             
 
-**Thoughts**:          
+**Thoughts**: Programming a different animal compared to writing code for a website         
 
-**Link(s) to work**
+**Link(s) to work**: no link to portfolio or ps
 
 
 ### Day 11: January 14, 2017
