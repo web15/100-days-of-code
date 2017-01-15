@@ -102,11 +102,11 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 11: January 14, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Today spent time learning more about Bootstrap            
 
-**Thoughts**:          
+**Thoughts**: Enjoying this challenge, keeps me motivated to stay on task every day          
 
-**Link(s) to work**
+**Link(s) to work**: no link to portfolio or ps
 
 
 ### Day 12: January 15, 2017
