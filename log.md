@@ -111,11 +111,11 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 12: January 15, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Bootstrap tutorials all afternoon            
 
-**Thoughts**:          
+**Thoughts**: May be getting the hang of this           
 
-**Link(s) to work**
+**Link(s) to work**: no link to portfolio or ps
 
 
 ### Day 13: January 16, 2017
@@ -152,3 +152,68 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 **Thoughts**:          
 
 **Link(s) to work**
+
+
+### Day 17: January 20, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
+
+
+### Day 18: January 21, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
+
+
+### Day 19: January 22, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
+
+
+### Day 20: January 23, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
+
+
+### Day 21: January 24, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
+
+
+### Day 22: January 25, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
+
+
+### Day 23: January 26, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**
+
+
