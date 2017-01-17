@@ -120,11 +120,11 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 13: January 16, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Bootstrap tutorials all afternoon, again             
 
-**Thoughts**:          
+**Thoughts**: I will make responsive sites, I will make responsive sites...        
 
-**Link(s) to work**
+**Link(s) to work**: no link to portfolio or ps
 
 
 ### Day 14: January 17, 2017
