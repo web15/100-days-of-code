@@ -147,11 +147,11 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 16: January 19, 2017
 
-**Today's Progress**:             
+**Today's Progress**: I have resolved issues with examples, done with Bootstrap for now.         
 
-**Thoughts**:          
+**Thoughts**:  Back to building tomorrow!              
 
-**Link(s) to work**
+**Link(s) to work**:no link to portfolio or ps
 
 
 ### Day 17: January 20, 2017
