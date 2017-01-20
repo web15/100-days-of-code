@@ -156,9 +156,9 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 17: January 20, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Worked on CS50 week 0 problem set, learning Scratch so I can complete the assignment.             
 
-**Thoughts**:          
+**Thoughts**: Hope to finish in a couple of days, need to complete FCC personal portfolio project next.         
 
 **Link(s) to work**
 
