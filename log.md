@@ -165,9 +165,9 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 18: January 21, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Continued work on CS50 week 0 problem set, build project using Scratch            
 
-**Thoughts**:          
+**Thoughts**: progress is slow          
 
 **Link(s) to work**
 
