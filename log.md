@@ -172,7 +172,25 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 **Link(s) to work**
 
 
-### Day 19: January 22, 2017
+### DayOff: January 22, 2017
+
+**Today's Progress**: No coding today             
+
+**Thoughts**:          
+
+**Link(s) to work**:
+
+
+### Day 19: January 23, 2017
+
+**Today's Progress**: Working on code for friends at a nonprofit             
+
+**Thoughts**: Back to my projects tomorrow        
+
+**Link(s) to work**:
+
+
+### Day 20: January 24, 2017
 
 **Today's Progress**:             
 
@@ -181,7 +199,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 **Link(s) to work**
 
 
-### Day 20: January 23, 2017
+### Day 21: January 25, 2017
 
 **Today's Progress**:             
 
@@ -190,7 +208,25 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 **Link(s) to work**
 
 
-### Day 21: January 24, 2017
+### Day 22: January 26, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**:
+
+
+### Day 23: January 27, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**:
+
+
+### Day 24: January 28, 2017
 
 **Today's Progress**:             
 
@@ -199,7 +235,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 **Link(s) to work**
 
 
-### Day 22: January 25, 2017
+### Day 25: January 29, 2017
 
 **Today's Progress**:             
 
@@ -208,12 +244,19 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 **Link(s) to work**
 
 
-### Day 23: January 26, 2017
+### Day 26: January 30, 2017
 
 **Today's Progress**:             
 
 **Thoughts**:          
 
-**Link(s) to work**
+**Link(s) to work**:
 
 
+### Day 27: January 31, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**:
