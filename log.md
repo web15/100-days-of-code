@@ -201,9 +201,9 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 21: January 25, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Another day to work on CS50 week 0 problem set, build project using Scratch               
 
-**Thoughts**:          
+**Thoughts**: Maybe complete tomorrow, experiencing scope creep          
 
 **Link(s) to work**
 
