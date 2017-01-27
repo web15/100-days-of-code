@@ -219,11 +219,11 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 23: January 27, 2017
 
-**Today's Progress**:             
+**Today's Progress**:Completed work on CS50 week 0 problem set, build project using Scratch    
 
-**Thoughts**:          
+**Thoughts**: YEA          
 
-**Link(s) to work**:
+**Link(s) to work**:https://scratch.mit.edu/projects/141817160/
 
 
 ### Day 24: January 28, 2017
