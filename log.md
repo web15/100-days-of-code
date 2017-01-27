@@ -210,9 +210,9 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 22: January 26, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Still working on CS50 week 0 problem set, build project using Scratch              
 
-**Thoughts**:          
+**Thoughts**: Need to wrap this up and move on          
 
 **Link(s) to work**:
 
