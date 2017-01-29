@@ -237,9 +237,9 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 25: January 29, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Still working on FCC Personal Portfolio                
 
-**Thoughts**:          
+**Thoughts**: spent more time on learning about CodePen than actual coding but it's all good.          
 
 **Link(s) to work**
 
