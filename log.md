@@ -264,9 +264,9 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 28: February 1, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Yet another day working on FCC Personal Portfolio              
 
-**Thoughts**:          
+**Thoughts**: found several images that will work          
 
 **Link(s) to work**:
 
