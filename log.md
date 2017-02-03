@@ -282,9 +282,9 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 30: February 3, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Learning day worked on tutorials all afternoon            
 
-**Thoughts**:          
+**Thoughts**: going to figure all this out         
 
 **Link(s) to work**:
 
