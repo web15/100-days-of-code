@@ -273,7 +273,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 29: February 2, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Worked on FCC Personal Portfolio a bit but got stuck, creativity did not show up to help work through issues. Try again tomorrow.               
 
 **Thoughts**:          
 
