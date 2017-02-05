@@ -300,9 +300,9 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 32: February 5, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Same as Saturday, tutorial and Personal Portfolio            
 
-**Thoughts**:          
+**Thoughts**: Soon, time for Falcons Football | Rise Up Atlanta!         
 
 **Link(s) to work**:
 
