@@ -318,7 +318,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 34: February 7, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Made good progress on portfolio and learned a lot from tutorial             
 
 **Thoughts**:          
 
