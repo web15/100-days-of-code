@@ -327,7 +327,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 35: February 8, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Thanks to tutorial I solved layout issue with portfolio that was big concern, more fun tomorrow.             
 
 **Thoughts**:          
 
