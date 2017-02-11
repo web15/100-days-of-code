@@ -334,7 +334,24 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 **Link(s) to work**:
 
 
-### Day 36: February 9, 2017
+### DayOff: February 9, 2017
+
+**Today's Progress**: No coding today, another project needs attention          
+
+**Thoughts**:          
+
+**Link(s) to work**:
+
+
+### Day 36: February 10, 2017
+
+**Today's Progress**: Worked on portfolio footer, tried several options but not sure which looks best. Take another look in the morning         
+**Thoughts**:          
+
+**Link(s) to work**:
+
+
+### Day 37: February 11, 2017
 
 **Today's Progress**:             
 
@@ -343,7 +360,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 **Link(s) to work**:
 
 
-### Day 37: February 10, 2017
+### Day 38: February 12, 2017
 
 **Today's Progress**:             
 
@@ -352,7 +369,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 **Link(s) to work**:
 
 
-### Day 38: February 11, 2017
+### Day 39: February 13, 2017
 
 **Today's Progress**:             
 
@@ -361,7 +378,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 **Link(s) to work**:
 
 
-### Day 39: February 12, 2017
+### Day 40: February 14, 2017
 
 **Today's Progress**:             
 
@@ -370,7 +387,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 **Link(s) to work**:
 
 
-### Day 40: February 13, 2017
+### Day 41: February 15, 2017
 
 **Today's Progress**:             
 
@@ -379,7 +396,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 **Link(s) to work**:
 
 
-### Day 41: February 14, 2017
+### Day 42: February 16, 2017
 
 **Today's Progress**:             
 
@@ -388,25 +405,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 **Link(s) to work**:
 
 
-### Day 42: February 15, 2017
-
-**Today's Progress**:             
-
-**Thoughts**:          
-
-**Link(s) to work**:
-
-
-### Day 43: February 16, 2017
-
-**Today's Progress**:             
-
-**Thoughts**:          
-
-**Link(s) to work**:
-
-
-### Day 44: February 17, 2017
+### Day 43: February 17, 2017
 
 **Today's Progress**:             
 
