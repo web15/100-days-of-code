@@ -353,7 +353,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 37: February 11, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Completed tutorial I began Sunday and worked on portfolio header, footer still not quite right, more tomorrow.              
 
 **Thoughts**:          
 
