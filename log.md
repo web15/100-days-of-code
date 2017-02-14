@@ -371,7 +371,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 39: February 13, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Continuing work on portfolio, progress seems slow, increase in knowledge is great and worth the wait.            
 
 **Thoughts**:          
 
