@@ -380,7 +380,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 40: February 14, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Beautiful code written, does not work as designed, will investigate reasons why and correct tomorrow.            
 
 **Thoughts**:          
 
