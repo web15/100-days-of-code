@@ -389,7 +389,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 41: February 15, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Began week 1 pset / CS50, after several frustrating days letting uncooperative portfolio rest a while            
 
 **Thoughts**:          
 
@@ -414,8 +414,58 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 **Link(s) to work**:
 
 
+### Day 44: February 18, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**:
 
 
+### Day 45: February 19, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**:
+
+
+### Day 46: February 20, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**:
+
+
+### Day 47: February 21, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**:
+
+
+### Day 48: February 22, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**:
+
+
+### Day 49: February 23, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**:
 
 
 
