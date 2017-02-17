@@ -407,7 +407,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 43: February 17, 2017
 
-**Today's Progress**:             
+**Today's Progress**:Continuing work on CS50 week 1 pset, also reading and working exercises in “C Programming Absolute Beginner’s Guide”         
 
 **Thoughts**:          
 
