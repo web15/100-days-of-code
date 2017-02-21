@@ -443,7 +443,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 47: February 21, 2017
 
-**Today's Progress**:             
+**Today's Progress**:  Continuing reading and working exercises in “C Programming Absolute Beginner’s Guide” now in chapter 17           
 
 **Thoughts**:          
 
