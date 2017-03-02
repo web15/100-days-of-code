@@ -425,7 +425,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 45: February 19, 2017
 
-**Today's Progress**: Continuing reading and working exercises in “C Programming Absolute Beginner’s Guide” completed through chapter 12            
+**Today's Progress**: Continuing reading and working exercises in “C Programming Absolute Beginner’s Guide” completed through chapter 12
 
 **Thoughts**:          
 
@@ -434,7 +434,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 46: February 20, 2017
 
-**Today's Progress**: Spent time reviewing completed exercises in “C Programming Absolute Beginner’s Guide” completed chapter 13              
+**Today's Progress**: Spent time reviewing completed exercises in “C Programming Absolute Beginner’s Guide” completed chapter 13         
 
 **Thoughts**:          
 
@@ -452,7 +452,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 48: February 22, 2017
 
-**Today's Progress**: Continuing reading and working exercises in “C Programming Absolute Beginner’s Guide” completed through chapter 18            
+**Today's Progress**: Continuing reading and working exercises in “C Programming Absolute Beginner’s Guide” completed through chapter 18 
 
 **Thoughts**:          
 
@@ -461,7 +461,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 49: February 23, 2017
 
-**Today's Progress**:Continuing reading and working exercises in “C Programming Absolute Beginner’s Guide” completed through chapter 19             
+**Today's Progress**:Continuing reading and working exercises in “C Programming Absolute Beginner’s Guide” completed through chapter 19
 
 **Thoughts**:          
 
@@ -488,7 +488,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 52: February 26, 2017
 
-**Today's Progress**: Continuing reading and working in “C Programming Absolute Beginner’s Guide” completed through chap 25              
+**Today's Progress**: Continuing reading and working in “C Programming Absolute Beginner’s Guide” completed through chap 25            
 
 **Thoughts**:          
 
@@ -497,7 +497,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 53: February 27, 2017
 
-**Today's Progress**: Continuing reading and working in “C Programming Absolute Beginner’s Guide” completed through chap 26                
+**Today's Progress**: Continuing reading and working in “C Programming Absolute Beginner’s Guide” completed through chap 26             
 
 **Thoughts**:          
 
@@ -506,7 +506,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 54: February 28, 2017
 
-**Today's Progress**: Continuing reading and working in “C Programming Absolute Beginner’s Guide” completed through chap 27              
+**Today's Progress**: Continuing reading and working in “C Programming Absolute Beginner’s Guide” completed through chap 27             
 
 **Thoughts**:          
 
@@ -515,7 +515,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 55: March 1, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Continuing reading and working in “C Programming Absolute Beginner’s Guide” completed through chap 29               
 
 **Thoughts**:          
 
