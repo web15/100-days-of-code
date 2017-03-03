@@ -515,7 +515,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 55: March 1, 2017
 
-**Today's Progress**: Continuing reading and working in “C Programming Absolute Beginner’s Guide” completed through chap 29               
+**Today's Progress**: Continuing reading and working in “C Programming Absolute Beginner’s Guide” completed through chap 29             
 
 **Thoughts**:          
 
@@ -524,7 +524,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 56: March 2, 2017
 
-**Today's Progress**:             
+**Today's Progress**:  Continuing reading and working in “C Programming Absolute Beginner’s Guide” completed through chap 30           
 
 **Thoughts**:          
 
@@ -549,10 +549,58 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 **Link(s) to work**:
 
 
+### Day 59: March 5, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**:
 
 
+### Day 60: March 6, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**:
 
 
+### Day 61: March 7, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**:
+
+
+### Day 62: March 8, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**:
+
+
+### Day 63: March 9, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**:
+
+
+### Day 64: March 10, 2017
+
+**Today's Progress**:             
+
+**Thoughts**:          
+
+**Link(s) to work**:
 
 
 
