@@ -569,7 +569,7 @@ Today begins the process of creating a portfolio so I can find a job in my new c
 
 ### Day 61: March 7, 2017
 
-**Today's Progress**:             
+**Today's Progress**: Continuing work on CS50 week 1 pset             
 
 **Thoughts**:          
 
